@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p  welcme/to/school
+mkdir {welcome,welcome/to/,welcome/to/school/}
